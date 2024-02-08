@@ -1,4 +1,4 @@
-# Prueba técnica Junior Data Scientist en Factor Energia - Antonio Pintado - antoniopl99612@gmail.com
+# Antonio Pintado - antoniopl99612@gmail.com
 DESCRIPCIÓN DEL ENTREGABLE:
 En la carpeta /prueba se puede ver un notebook el cual ha sido desarrollado para crear el modelo de clasificación (desarrollado en Google Colab),
 El objetivo del modelo es clasificar emails en las siguientes categorías:
