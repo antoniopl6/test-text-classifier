@@ -13,5 +13,3 @@ El objetivo del modelo es clasificar emails en las siguientes categorías:
 Una vez entrenado el modelo, se guardó el resultado, incluyendo tanto el modelo Disbert adaptado al problema como el tokenizador. Esto permite que el modelo pueda ser utilizado por el servicio Python cuando llegue una petición POST.
 
 En la carpeta /analysis se puede encontrar un notebook, en el cual se proporciona un análisis de los emails, teniendo en cuenta diferentes variables temporales.
-
-Adicionalmente, también se han tocado los archivos de docker_compose y Dockerfile de la aplicación de Python.
